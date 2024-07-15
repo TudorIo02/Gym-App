@@ -1,0 +1,20 @@
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\bin\Debug\SalaFitness.exe.config
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\bin\Debug\SalaFitness.exe
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.Form1.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.FormClienti.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.MembruNou.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.Properties.Resources.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.exe
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.pdb
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\bin\Debug\SalaFitness.pdb
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.Rezervari_Clientics.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.FormRez.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.EchipamenteSala.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.BazaDeDate_Echipamente.resources
+C:\Users\alexa\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect paw\SalaFitness\SalaFitness\obj\Debug\SalaFitness.Login.resources
+C:\Users\User\Downloads\SalaFitness\SalaFitness\SalaFitness\obj\Debug\SalaFitness.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SalaFitness\SalaFitness\SalaFitness\obj\Debug\SalaFitness.exe
+C:\Users\User\Downloads\SalaFitness\SalaFitness\SalaFitness\obj\Debug\SalaFitness.pdb
